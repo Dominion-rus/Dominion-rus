@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dominion-rus
-- 👀 I’m interested in testing,gamedesign,leveldesign and development on python
-- 🌱 I’m currently learning Python in Yandex.Practicum
+- 👀 I’m interested in testing,gamedesign,leveldesign and development on python and Java
+- 🌱 I’m currently learning JAVA in Yandex.Practicum
 - 📫 How to reach me **https://t.me/fatal1ty2013**
 - 📄 Know about my experiences [https://hh.ru/resume/6d5acb80ff0c62c6a90039ed1f31594d69774f](https://hh.ru/resume/6d5acb80ff0c62c6a90039ed1f31594d69774f).
 
